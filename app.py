@@ -94,11 +94,11 @@ with st.expander("Got a Query?"):
 Hi, I'm Daksh
                 
 If you have any questions, feedback, suggestions, or just want to chat, feel free to reach out!
-- [Github](https://github.com/Dakshmanohar30)
+
 - [Linkedin](https://www.linkedin.com/in/daksh-manohar-6b1879235/)
+- [Github](https://github.com/Dakshmanohar30)
 
-
-you can also email me at dakshmanohar30@gmail.com.
+you can also email me at dakshmanohar@gmail.com.
 """)
 
 
