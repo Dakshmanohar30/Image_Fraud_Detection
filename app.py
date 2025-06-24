@@ -98,7 +98,7 @@ If you have any questions, feedback, suggestions, or just want to chat, feel fre
 - [Linkedin](https://www.linkedin.com/in/daksh-manohar-6b1879235/)
 
 
-you can also email me at jayantmeshram398@gmail.com.
+you can also email me at dakshmanohar30@gmail.com.
 """)
 
 
