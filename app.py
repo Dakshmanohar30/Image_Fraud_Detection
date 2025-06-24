@@ -91,12 +91,12 @@ with st.expander("How to use it?"):
 
 with st.expander("Got a Query?"):
     st.markdown("""
-Hi, I'm Jayant
+Hi, I'm Daksh
                 
 If you have any questions, feedback, suggestions, or just want to chat, feel free to reach out!
 
-- [Linkedin](https://www.linkedin.com/in/jayantmeshram/)
-- [Github](https://github.com/jayant1211)
+- [Linkedin](https://www.linkedin.com/in/daksh-manohar-6b1879235/)
+
 
 you can also email me at jayantmeshram398@gmail.com.
 """)
