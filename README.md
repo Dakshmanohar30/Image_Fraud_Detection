@@ -84,8 +84,7 @@ For Weather CNN:<br>
 | Validation Accuracy   |   81.6%   |
 | Test Accuracy         |   73.4%   |
 
-### Video
-[Video Result](https://youtu.be/aEpDw_GZb9g)
+
 
 ### To-Dos
 - [ ] Use scene classification model to remove user dependency for checking whether the image is outdoor or not. (In progress)
