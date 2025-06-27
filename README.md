@@ -2,9 +2,6 @@
 
 Image forensics has witnessed significant growth in recent years, driven by advancements in computer vision and the surge of digital data. Ensuring the authenticity of images has become a top priority, as sophisticated manipulation techniques continue to emerge. We propose a multi-modal approach to gain insight into the image's authenticity.
 
-### Try it on Streamlit
-You can try the live application here.\
-[Live Demo](https://imagetamperingdetection.streamlit.app/)
 #### Step 1
 Choose the image
 <p align="center">
@@ -94,20 +91,4 @@ For Weather CNN:<br>
 - [ ] Use scene classification model to remove user dependency for checking whether the image is outdoor or not. (In progress)
 - [ ] Integration of Web-Traces and more modalities to Improve upon the Results.
 
-## Cite
-If you use our study in your research, please consider citing us, Thanks:
 
-<h3>BibTeX Citation</h3>
-
-  <pre><code>
-@INPROCEEDINGS{10169948,
-  author={Madake, Jyoti and Meshram, Jayant and Mondhe, Ajinkya and Mashalkar, Pruthviraj},
-  booktitle={2023 4th International Conference for Emerging Technology (INCET)}, 
-  title={Image Tampering Detection Using Error Level Analysis and Metadata Analysis}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-7},
-  doi={10.1109/INCET57972.2023.10169948}}
-
-  </code></pre>
